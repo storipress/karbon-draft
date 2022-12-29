@@ -1,13 +1,14 @@
 # Contributing to Karbon
 👍🎉 First off, thanks for taking the time to contribute! 🎉👍
 
-**Working on your first Pull Request?** You can learn how from this free series How to Contribute to an Open Source Project on GitHub.
+**Working on your first Pull Request?** You can learn how from this _free_ series
+[How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github).
 
 Please join our Slack channel if you have any questions or just want to say hi.
 
 ## Project setup
 ### Prerequisites
-For hacking on Karbon you'll need to have Node.js and npm installed.
+For hacking on Hydrogen you'll need to have [Node.js and npm](https://docs.npmjs.com/getting-started/installing-node) installed.
 
 ### Quick and dirty setup
 `apm develop Karbon`
