@@ -23,6 +23,7 @@
 - 🔎 Enterprise SEO utilities 
 - 👨‍👩‍👦‍👦 Large ecosystem: compatable with all Nuxt plugins
 - 🔦 Instant-search, baked in
+- 🌮 Recommended articles out of the box, with extensible custom logic
 - ∞ SEO friendly infinite scroll
 - 💳 Paywall, checkout and card management
 - 💸 One central config file for all Google Publisher Tags + Prebid (optional) placements
