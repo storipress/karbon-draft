@@ -14,7 +14,7 @@
 
 # *Carbon* /ˈkɑːbən/: the first pigment humans used for ink
 
-**Built on Nuxt 3**, *Karbon* is a **Vue-based framework** for building dynamic, custom publications.
+**Built on Nuxt 3**, *Karbon* is a **Vue-based framework** for building dynamic, custom publications. [*Why Vue*?](https://developers.storipress.com/karbon/2gLtVFS6QEkdvKF7fkRng1/overview/4P2M8yS9k5s8F7FXgTSyKr#why-vue)
 
 ### Why did we make Karbon? 👇
 
